@@ -1,4 +1,8 @@
-### Hi there 👋
+[![sungwook's 42 stats](https://badge.mediaplus.ma/kettlebells/sungwook?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42sungwook&show_icons=true&theme=dark)
+
+
 
 <!--
 **42sungwook/42sungwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
